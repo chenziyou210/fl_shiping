@@ -1,0 +1,51 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "name": "live_flutter",
+            "request": "launch",
+            "type": "dart"
+        },
+        {
+            "name": "live_flutter (profile mode)",
+            "request": "launch",
+            "type": "dart",
+            "flutterMode": "profile"
+        },
+        {
+            "name": "live_flutter (release mode)",
+            "request": "launch",
+            "type": "dart",
+            "flutterMode": "release"
+        },
+        {
+            "name": "dart_ping_ios",
+            "cwd": "plugins/dart_ping_ios",
+            "request": "launch",
+            "type": "dart"
+        },
+        {
+            "name": "flutter_webview_pro",
+            "cwd": "plugins/flutter_webview_pro",
+            "request": "launch",
+            "type": "dart"
+        },
+        {
+            "name": "flutter_webview_pro (profile mode)",
+            "cwd": "plugins/flutter_webview_pro",
+            "request": "launch",
+            "type": "dart",
+            "flutterMode": "profile"
+        },
+        {
+            "name": "flutter_webview_pro (release mode)",
+            "cwd": "plugins/flutter_webview_pro",
+            "request": "launch",
+            "type": "dart",
+            "flutterMode": "release"
+        }
+    ]
+}

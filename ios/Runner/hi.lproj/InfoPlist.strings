@@ -1,0 +1,24 @@
+/* 
+  InfoPlist.strings
+  Runner
+
+  Created by Tonight on 2022/4/20.
+  
+*/
+"NSAppleMusicUsageDescription" = "मीडिया को एक्सेस करने के लिए ऐप को आपकी सहमति की आवश्यकता है";
+"NSBluetoothAlwaysUsageDescription" = "ब्लूटूथ को एक्सेस करने के लिए ऐप को आपकी सहमति की आवश्यकता है";
+"NSBluetoothPeripheralUsageDescription" = "ब्लूटूथ को एक्सेस करने के लिए ऐप को आपकी सहमति की आवश्यकता है";
+"NSCalendarsUsageDescription" = "कैलेंडर को एक्सेस करने के लिए ऐप को आपकी सहमति की आवश्यकता है";
+"NSCameraUsageDescription" = "अगर ऐप आपके कैमरे तक पहुंचना चाहता है, तो कृपया ”ओके“ पर क्लिक करें। अगर इसकी अनुमति नहीं है, तो आप तस्वीरें लेने और स्कैनिंग जैसे कार्यों का उपयोग नहीं कर पाएंगे।";
+"NSContactsUsageDescription" = "ऐप को आपके डिवाइस तक पहुंच की आवश्यकता है";
+"NSLocalNetworkUsageDescription" = "फ़ाइल स्थानांतरण और मुद्रण के लिए ऐप को आपके स्थानीय नेटवर्क तक पहुंच की आवश्यकता है";
+"NSLocationAlwaysAndWhenInUseUsageDescription" = "ऐप को स्थान की आवश्यकता है सेवाओं का उपयोग आपका स्थान प्राप्त करने के लिए किया जाएगा";
+"NSLocationAlwaysUsageDescription" = "ऐप को पृष्ठभूमि में स्थान की जानकारी प्राप्त करने की आवश्यकता है";
+"NSLocationUsageDescription" = "स्थान तक पहुँचने के लिए ऐप को आपकी सहमति की आवश्यकता है";
+"NSLocationWhenInUseUsageDescription" = "उपयोग के दौरान स्थान तक पहुंचने के लिए ऐप को आपकी सहमति की आवश्यकता है";
+"NSMicrophoneUsageDescription" = "ऐप को माइक्रोफ़ोन एक्सेस करने के लिए आपकी सहमति की आवश्यकता है";
+"NSMotionUsageDescription" = "खेल और फ़िटनेस को एक्सेस करने के लिए ऐप को आपकी सहमति की ज़रूरत है";
+"NSPhotoLibraryAddUsageDescription" = "यदि ऐप आपकी तस्वीरों को एक्सेस करना चाहता है, तो कृपया एक्सेस की अनुमति देने के लिए ”ओके“ पर क्लिक करें। यदि अनुमति नहीं है, तो आप स्थानीय एल्बम के चित्र नहीं भेज पाएंगे";
+"NSPhotoLibraryUsageDescription" = "यदि ऐप आपकी तस्वीरों को एक्सेस करना चाहता है, तो कृपया एक्सेस की अनुमति देने के लिए ”ओके“ पर क्लिक करें। यदि अनुमति नहीं है, तो आप स्थानीय एल्बम के चित्र नहीं भेज पाएंगे";
+"NSSpeechRecognitionUsageDescription" = "ऐप्लिकेशन को आपकी आवाज़ का ऐक्सेस चाहिए";
+"NSUserTrackingUsageDescription" = "इस पहचानकर्ता का उपयोग आपको वैयक्तिकृत विज्ञापनों की अनुशंसा करने के लिए किया जाएगा।";

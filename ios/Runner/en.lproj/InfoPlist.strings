@@ -1,0 +1,25 @@
+/* 
+  InfoPlist.strings
+  Runner
+
+  Created by Tonight on 2022/4/20.
+  
+*/
+
+"NSAppleMusicUsageDescription" = "App needs your consent to access media";
+"NSBluetoothAlwaysUsageDescription" = "App needs your consent to access Bluetooth";
+"NSBluetoothPeripheralUsageDescription" = "App needs your consent to access Bluetooth";
+"NSCalendarsUsageDescription" = "The app needs your consent to access the calendar";
+"NSCameraUsageDescription" = "If the app wants to access your camera, please click “OK”. If it is not allowed, you will not be able to use functions such as taking pictures and scanning.";
+"NSContactsUsageDescription" = "App needs access to your device";
+"NSLocalNetworkUsageDescription" = "App needs access to your local network for file transfer and printing";
+"NSLocationAlwaysAndWhenInUseUsageDescription" = "App requires location services will be used to get your location";
+"NSLocationAlwaysUsageDescription" = "App needs to obtain location information in the background";
+"NSLocationUsageDescription" = "App needs your consent to access location";
+"NSLocationWhenInUseUsageDescription" = "App needs your consent to access location during use";
+"NSMicrophoneUsageDescription" = "App needs your consent to access the microphone";
+"NSMotionUsageDescription" = "App needs your consent to access Sports & Fitness";
+"NSPhotoLibraryAddUsageDescription" = "If the app wants to access your photos, please click ”OK“ to allow access. If not allowed, you will not be able to send local album pictures";
+"NSPhotoLibraryUsageDescription" = "If the app wants to access your photos, please click ”OK“ to allow access. If not allowed, you will not be able to send local album pictures";
+"NSSpeechRecognitionUsageDescription" = "App needs access to your voice";
+"NSUserTrackingUsageDescription" = "This identifier will be used to recommend personalized advertisements to you.";
